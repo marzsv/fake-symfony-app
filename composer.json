@@ -1,0 +1,13 @@
+{
+    "name": "mario/fake-symfony-app",
+    "description": "Fake webapp",
+    "authors": [
+        {
+            "name": "Mario Juárez",
+            "email": "pachinsv@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
